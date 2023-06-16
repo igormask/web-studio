@@ -1,6 +1,4 @@
-@@ -2,
-11+2,
-56 @@ body {
+ body {
     font-family: 'Roboto', sans-serif;
 }
 
@@ -60,6 +58,10 @@ a {
     @@ -25,
     6+70,
     14 @@ color: #000000;
+    color: #2196F3;
+}
+
+.header-logo {
     color: #2196F3;
 }
 
