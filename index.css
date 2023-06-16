@@ -1,0 +1,175 @@
+@@ -2,
+11+2,
+56 @@ body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+p {
+    margin-top: 0;
+}
+
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+img {
+    display: block;
+    max-width: 100;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    @@ -25,
+    6+70,
+    14 @@ color: #000000;
+    color: #2196F3;
+}
+
+.menu-list {
+    display: flex;
+}
+
+.menu-item {
+    margin-left: 50px;
+}
+
+.header-contact {
+    color: #757575;
+}
+
+@@ -43,
+52+96,
+19 @@ color: #000000;
+color: #2196F3;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+p {
+    margin-top: 0;
+}
+
+img {
+    display: block;
+    max-width: 100;
+    height: auto;
+}
+
+
+
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+.section-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+
+    color: #212121;
+}
+
+.logo {
+    /* .logo{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+@@ -98,7 +118,7 @@ line-height: 1.19;
+letter-spacing: 0.03em;
+    
+color: #2196F3;
+}
+} */
+
+    /* Герой */
+    .hero {
+        @@ -144,
+        7+164,
+        13 @@ background-color: #2195f3b9;
+    }
+
+    /* Наші переваги */
+    .advantages {}
+
+    .advantages {}
+
+    .attention-list {
+        display: flex;
+    }
+
+    .advantages-title {
+        font-style: normal;
+        @@ -215,
+        6+241,
+        10 @@ color: #757575;
+        background-color: #2F303A;
+    }
+
+    .logo {
+        color: #2196F3;
+    }
+
+    .logo-footer {
+        color: #FFFFFF;
+    }
+
+    0 comments on commit c0e537e Please sign in to comment. Footer © 2023 GitHub,
+    Inc. Footer navigation Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
